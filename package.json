@@ -20,7 +20,7 @@
     "@angular/router": "^6.1.10",
     "@mdi/font": "^3.8.95",
     "@ng-bootstrap/ng-bootstrap": "^4.2.1",
-    "ajv": "^6.9.1",
+    "ajv": "^6.12.3",
     "angular-material": "^1.1.19",
     "core-js": "^2.6.9",
     "mat-select-autocomplete": "^1.2.4",
